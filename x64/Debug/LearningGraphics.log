@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Bobby\source\repos\LearningGraphics\main.cpp(185,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Bobby\source\repos\LearningGraphics\main.cpp(186,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LearningGraphics.vcxproj -> C:\Users\Bobby\source\repos\LearningGraphics\x64\Debug\LearningGraphics.exe
